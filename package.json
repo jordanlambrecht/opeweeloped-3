@@ -1,0 +1,20 @@
+{
+  "name": "opeweeloped-3",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build index.css -o tailwind.css",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@tailwindcss/aspect-ratio": "^0.2.2",
+    "@tailwindcss/forms": "^0.3.4",
+    "autoprefixer": "^10.3.6",
+    "postcss": "^8.3.8",
+    "tailwindcss": "^2.2.16",
+    "vite": "^2.6.0"
+  },
+  "dependencies": {
+    "alpinejs": "^3.4.2"
+  }
+}
